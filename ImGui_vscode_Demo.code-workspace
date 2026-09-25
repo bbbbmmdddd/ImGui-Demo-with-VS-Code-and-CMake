@@ -1,0 +1,59 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "workbench.colorCustomizations": {
+            "tree.indentGuidesStroke": "#17d861",
+            "activityBar.activeBackground": "#3676ec",
+            "activityBar.activeBorder": "#e7e7e7",
+            "activityBar.background": "#3676ec",
+            "activityBar.foreground": "#e7e7e7",
+            "activityBar.inactiveForeground": "#e7e7e799",
+            "activityBarBadge.background": "#920e3c",
+            "activityBarBadge.foreground": "#e7e7e7",
+            "activityBarTop.activeBackground": "#3676ec",
+            "activityBarTop.activeBorder": "#e7e7e7",
+            "activityBarTop.background": "#3676ec",
+            "activityBarTop.foreground": "#e7e7e7",
+            "activityBarTop.inactiveForeground": "#e7e7e799",
+            "commandCenter.border": "#e7e7e799",
+            "commandCenter.foreground": "#e7e7e7",
+            "sash.hoverBorder": "#3676ec",
+            "statusBar.background": "#155ada",
+            "statusBar.debuggingBackground": "#155ada",
+            "statusBar.debuggingForeground": "#e7e7e7",
+            "statusBar.foreground": "#e7e7e7",
+            "statusBarItem.hoverBackground": "#3676ec",
+            "statusBarItem.remoteBackground": "#f16e9c",
+            "statusBarItem.remoteForeground": "#e7e7e7",
+            "titleBar.activeBackground": "#155ada",
+            "titleBar.activeForeground": "#e7e7e7",
+            "titleBar.inactiveBackground": "#155ada99",
+            "titleBar.inactiveForeground": "#e7e7e799"
+        },
+        "VsCodeTaskButtons.tasks": [
+            {
+                "label": "$(wrench) Configure",
+                "task": "CMake Configure",
+                "tooltip": "Run CMake Configure Task"
+            },
+            {
+                "label": "$(tools) Build",
+                "task": "CMake Build",
+                "tooltip": "Run CMake Build Task"
+            },
+            {
+                "label": "$(play) Run",
+                "task": "run",
+                "tooltip": "Run Bin File"
+            },
+        ],
+        "workbench.tree.renderIndentGuides": "always",
+        "workbench.tree.indent": 30,
+        "peacock.color": "#155ada",
+        "VsCodeTaskButtons.showCounter": true,
+    }
+}
